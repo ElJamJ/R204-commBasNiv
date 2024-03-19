@@ -1,0 +1,3 @@
+		LOAD_A #5
+		LOAD_B_A
+		INC_B
